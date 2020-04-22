@@ -92,7 +92,7 @@
         }
 
         function oy_go_next(){  
-            audio_music.play(); //触发音乐自动播放
+       
             $("#div_oy_yes").show();
             setTimeout(function(){                
                 $('#div_onlyyou').fadeOut();
